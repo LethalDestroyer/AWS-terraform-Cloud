@@ -1,1 +1,1 @@
-# AWS-terraform-Cloud
+# static-web-aws
